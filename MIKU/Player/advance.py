@@ -12,9 +12,9 @@ from telethon.tl.custom import button
 from time import time
 from datetime import datetime
 hl = '/'
-deadlyversion = 'sᴘᴀᴍʙᴏᴛ 2.0'
+deadlyversion = 'sᴘᴀᴍʙᴏᴛ 3.0'
 
-MIKU_PIC = "https://telegra.ph/file/680e688035161c7e7afb1.jpg"
+MIKU_PIC = "https://telegra.ph/file/92b88cdc4834633e21f09.jpg"
   
 
 DEADLY = "    ᴍᴜsɪᴄ sᴘᴀᴍ ʙᴏᴛ\n\n"
@@ -32,22 +32,22 @@ async def alive(event):
                                   caption=DEADLY,
                                   buttons=[
         [
-        Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/Miku_updates"),
-        Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/Miku_Support")
+        Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/Lisaxupdates"),
+        Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/LisaxSupport")
         ],
         [
-        Button.url("【V๏ɪ፝֟𝔡】◈Network◈", "https://t.me/VoidxNetwork")
+        Button.url("ʜᴀꜱʜɪʀᴀ ᴀꜱꜱᴏᴄɪᴀᴛɪᴏɴ", "https://t.me/Hashira_Assocation")
         ]
         ]
         )
     
-@BOT.on(events.NewMessage(incoming=True, pattern=r"\%svoid(?: |$)(.*)" % hl))
+@BOT.on(events.NewMessage(incoming=True, pattern=r"\%shashira(?: |$)(.*)" % hl))
 async def void(event):
-    PHOTO="https://telegra.ph/file/e5808adf6d1bc748d6440.jpg"
+    PHOTO="https://telegra.ph/file/cb2b6d27dfccb6cdc36ed.jpg"
     Text= f"""
-Welcome to [【V๏ɪ፝֟𝔡】Network](https://t.me/voidxnetwork)
+Welcome to [ʜᴀꜱʜɪʀᴀ ᴀꜱꜱᴏᴄɪᴀᴛɪᴏɴ](https://t.me/Hashira_Association)
 ━━━━━━━━━━━━━━━━━━━━━━
-✪ ᴠᴏɪᴅ ɪꜱ ᴀɴ ᴀɴɪᴍᴇ ʙᴀꜱᴇᴅ ᴄᴏᴍᴍᴜɴɪᴛʏ ᴡɪᴛʜ ᴀ ᴍᴏᴛɪᴠᴇ ᴛᴏ ꜱᴘʀᴇᴀᴅ ʟᴏᴠᴇ ᴀɴᴅ ᴘᴇᴀᴄᴇ ᴀʀᴏᴜɴᴅ ᴛᴇʟᴇɢʀᴀᴍ.
+✪ ʜᴀꜱʜɪʀᴀ ᴀꜱꜱᴏᴄɪᴀᴛɪᴏɴ ɪꜱ ᴀɴ ᴀɴɪᴍᴇ ʙᴀꜱᴇᴅ ᴄᴏᴍᴍᴜɴɪᴛʏ ᴡɪᴛʜ ᴀ ᴍᴏᴛɪᴠᴇ ᴛᴏ ꜱᴘʀᴇᴀᴅ ʟᴏᴠᴇ ᴀɴᴅ ᴘᴇᴀᴄᴇ ᴀʀᴏᴜɴᴅ ᴛᴇʟᴇɢʀᴀᴍ.
 ✪ ɢᴏ ᴛʜʀᴏᴜɢʜ ᴛʜᴇ ᴄʜᴀɴɴᴇʟ ᴀɴᴅ ᴊᴏɪɴ ᴛʜᴇ ᴄᴏᴍᴍᴜɴɪᴛʏ ɪꜰ ɪᴛ ᴅʀᴀᴡꜱ ʏᴏᴜʀ ᴀᴛᴛᴇɴᴛɪᴏɴ. 
 ━━━━━━━━━━━━━━━━━━━━━━
 """
@@ -56,10 +56,10 @@ Welcome to [【V๏ɪ፝֟𝔡】Network](https://t.me/voidxnetwork)
                 caption=Text,
                 buttons=(
                 [
-                    [Button.url("【V๏ɪ፝֟𝔡】Network", "https://t.me/VoidXNetwork")],
+                    [Button.url("ʜᴀꜱʜɪʀᴀ ᴀꜱꜱᴏᴄɪᴀᴛɪᴏɴ", "https://t.me/Hashira_Association")],
                     [
-                    Button.url("【ᴜꜱᴇʀᴛᴀɢ】", "https://t.me/VoidxNetwork/136"),
-                    Button.url("【ɪɴᴅᴇx】", "https://t.me/VoidxNetwork/15")
+                    Button.url("ᴜꜱᴇʀᴛᴀɢ", "https://t.me/Hashira_Association/19"),
+                    Button.url("ɪɴᴅᴇx", "https://t.me/Hashira_Association/93")
                     ],
                 ]
             ),
