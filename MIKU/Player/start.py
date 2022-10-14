@@ -180,7 +180,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
 
 @Client.on_message(filters.command(["hashira"]) & filters.private)
 async def void(client: Client, message: Message):
-    PHOTO="https://telegra.ph/file/d25aac56f5594e59d1b5e.mp4"
+    PHOTO="https://telegra.ph/file/62085a77159f554e1a51f.jpg"
     Text= f"""
 Welcome to [ʜᴀꜱʜɪʀᴀ ᴀꜱꜱᴏᴄɪᴀᴛɪᴏɴ](https://t.me/Hashira_Association)
 ━━━━━━━━━━━━━━━━━━━━━━
