@@ -258,8 +258,8 @@ async def play(c: Client, m: Message):
                       reply_markup=InlineKeyboardMarkup(
                     [
                         [
-                            InlineKeyboardButton(" sᴜᴘᴘᴏʀᴛ", url="https://t.me/Miku_Support"),
-                            InlineKeyboardButton(" ᴜᴘᴅᴀᴛᴇs", url="https://t.me/Miku_updates")
+                            InlineKeyboardButton(" sᴜᴘᴘᴏʀᴛ", url="https://t.me/LisaxSupport"),
+                            InlineKeyboardButton(" ᴜᴘᴅᴀᴛᴇs", url="https://t.me/Lisaxupdates")
                         ],
                         [
                             InlineKeyboardButton(" ᴄʟᴏsᴇ ", callback_data="cls")
@@ -269,7 +269,7 @@ async def play(c: Client, m: Message):
             )
         else:
             suhu = await m.reply_text(
-        f"**sᴇᴀʀᴄʜɪɴɢ ғᴏʀ ʏᴏᴜ ᴍᴏɪ ʟᴜʙ ❣️ ᴡᴀɪᴛ..."
+        f"**sᴇᴀʀᴄʜɪɴɢ ғᴏʀ ʏᴏᴜ ᴍʏ ᴅᴇꜱᴛɪɴʏ ❣️ ᴡᴀɪᴛ..."
     )
             query = m.text.split(None, 1)[1]
             search = ytsearch(query)
