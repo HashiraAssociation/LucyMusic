@@ -7,6 +7,9 @@
     
 
 [ᴏᴡɴᴇʀ](https://t.me/ricks_2005)
+<p align="center">
+
+
 [ᴘʀᴇꜱᴇɴᴛᴇᴅ ʙʏ](https://t.me/Hashira_Association)
 
 ## ꜰᴇᴀᴛᴜʀᴇꜱ 
