@@ -1,13 +1,13 @@
-<h2 align="centre"> Mɪᴋᴜ ᴍᴜsɪᴄ </h1>
+<h2 align="centre"> ᴛᴀᴋᴛ ᴀꜱᴀʜɪɴᴀ ᴍᴜꜱɪᴄ </h1>
 
-### Mɪᴋᴜ ᴍᴜsɪᴄ+sᴘᴀᴍ ʙᴏᴛ ɪꜱ ᴀ ᴛᴇʟᴇɢʀᴀᴍ ᴘʀᴏᴊᴇᴄᴛ ʙᴀꜱᴇᴅ ᴏɴ ᴘʏʀᴏɢʀᴀᴍ ꜰᴏʀ ᴘʟᴀʏ ᴍᴜꜱɪᴄꜱ ɪɴ ᴠᴄ ᴄʜᴀᴛꜱ...
+### ᴛᴀᴋᴛ ᴀꜱᴀʜɪɴᴀ ᴍᴜsɪᴄ+sᴘᴀᴍ ʙᴏᴛ ɪꜱ ᴀ ᴛᴇʟᴇɢʀᴀᴍ ᴘʀᴏᴊᴇᴄᴛ ʙᴀꜱᴇᴅ ᴏɴ ᴘʏʀᴏɢʀᴀᴍ ꜰᴏʀ ᴘʟᴀʏ ᴍᴜꜱɪᴄꜱ ɪɴ ᴠᴄ ᴄʜᴀᴛꜱ...
 
-<p align="center"><a href="https://t.me/Miku_updates"><img src="https://telegra.ph/file/680e688035161c7e7afb1.jpg" width="300"></a></p>
+<p align="center"><a href="https://t.me/Lisaxupdates"><img src="https://telegra.ph/file/181e463636223a1c5884c.jpg" width="300"></a></p>
 <p align="center">
     
 
-[ᴏᴡɴᴇʀ](https://t.me/Mr_nack_nack)
-
+[ᴏᴡɴᴇʀ](https://t.me/ricks_2005)
+[ᴘʀᴇꜱᴇɴᴛᴇᴅ ʙʏ](https://t.me/Hashira_Association)
 
 ## ꜰᴇᴀᴛᴜʀᴇꜱ 
 
@@ -27,7 +27,8 @@
 
 ### ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Yunxvoid/MIKU)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/orofer-xt/Takt-Asahina-Music)
 
 ### ꜱᴜᴘᴘᴏʀᴛ ᴀɴᴅ ᴜᴘᴅᴀᴛᴇꜱ
-<a href="https://t.me/Miku_Support"><img src="https://img.shields.io/badge/Join-Group%20Support-black.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/Miku_updates"><img src="https://img.shields.io/badge/Join-Updates%20Channel-black.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/LisaXSupport"><img src="https://img.shields.io/badge/Join-Group%20Support-red.svg?style=for-the-badge&logo=Telegram"></a> 
+<a href="https://t.me/LisaXupdates"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
