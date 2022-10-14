@@ -12,6 +12,8 @@
 
 [ᴘʀᴇꜱᴇɴᴛᴇᴅ ʙʏ](https://t.me/Hashira_Association)
 
+<p align="center"><a href="https://t.me/ricks_2005"><img src="https://telegra.ph/file/1755389bdeb46ef70261b.jpg" width="344"></a></p>
+
 ## ꜰᴇᴀᴛᴜʀᴇꜱ 
 
 - **ᴘʟᴀʏ ᴍᴜꜱɪᴄ ɪɴ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘ ᴠᴏɪᴄᴇ ᴄʜᴀᴛꜱ!**
