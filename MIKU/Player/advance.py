@@ -14,7 +14,7 @@ from datetime import datetime
 hl = '/'
 deadlyversion = 'sᴘᴀᴍʙᴏᴛ 3.0'
 
-MIKU_PIC = "https://telegra.ph/file/92b88cdc4834633e21f09.jpg"
+MIKU_PIC = "https://telegra.ph/file/3f7317f62685a16ed3780.jpg"
   
 
 DEADLY = "    ᴍᴜsɪᴄ sᴘᴀᴍ ʙᴏᴛ\n\n"
