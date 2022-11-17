@@ -61,7 +61,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     if query.data=="help":
         buttons = [
             [
-                InlineKeyboardButton(" ᴏᴡɴᴇʀ", url="https://t.me/ricks_2005"),
+                InlineKeyboardButton(" ᴏᴡɴᴇʀ", url="https://t.me/flame_2005"),
                 InlineKeyboardButton(" ᴜꜱᴇʀꜱ", callback_data="users"),
             ],
             [
@@ -95,7 +95,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             ],
             [
                 InlineKeyboardButton(" ʜᴀꜱʜɪʀᴀ ᴀꜱꜱᴏᴄɪᴀᴛɪᴏɴ", url="https://t.me/Hashira_Association"),
-                InlineKeyboardButton(" ᴏᴡɴᴇʀ✨", url="https://t.me/ricks_2005"),
+                InlineKeyboardButton(" ᴏᴡɴᴇʀ✨", url="https://t.me/flame_2005"),
             ],
             [
                 InlineKeyboardButton(" ʜᴇʟᴘ & ᴄᴏᴍᴍᴀɴᴅꜱ", callback_data="help"),
@@ -216,7 +216,7 @@ async def start(client: Client, message: Message):
             ],
             [
                 InlineKeyboardButton(" ʜᴀꜱʜɪʀᴀ ᴀꜱꜱᴏᴄɪᴀᴛɪᴏɴ", url="https://t.me/Hashira_Association"),
-                InlineKeyboardButton(" ᴏᴡɴᴇʀ✨", url="https://t.me/ricks_2005"),
+                InlineKeyboardButton(" ᴏᴡɴᴇʀ✨", url="https://t.me/flame_2005"),
             ],
             [
                 InlineKeyboardButton(" ʜᴇʟᴘ & ᴄᴏᴍᴍᴀɴᴅꜱ", callback_data="help"),
@@ -231,7 +231,7 @@ async def help(client: Client, message: Message):
     self.username = get_me.username
     buttons =  [
             [
-                InlineKeyboardButton(" ᴏᴡɴᴇʀ", url="https://t.me/ricks_2005"),
+                InlineKeyboardButton(" ᴏᴡɴᴇʀ", url="https://t.me/flame_2005"),
                 InlineKeyboardButton(" ᴜꜱᴇʀꜱ", callback_data="users"),
             ],
             [
